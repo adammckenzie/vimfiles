@@ -1,0 +1,9 @@
+[submodule "vimfiles/bundle/Syntastic"]
+	path = vimfiles/bundle/Syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vimfiles/bundle/vim-airline"]
+	path = vimfiles/bundle/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "vimfiles/bundle/vim-bufferline"]
+	path = vimfiles/bundle/vim-bufferline
+	url = https://github.com/bling/vim-bufferline.git
